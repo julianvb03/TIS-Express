@@ -1,0 +1,14 @@
+{
+  "name": "randomquotes",
+  "version": "1.0.0",
+  "description": "Tutorial de TIS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
